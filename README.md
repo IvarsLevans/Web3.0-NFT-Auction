@@ -1,4 +1,4 @@
-# Web3.0-NFT-Auction
+# Web3.0 NFT Auction
 
 ## Demos
 ![1](https://user-images.githubusercontent.com/78017471/221699275-520c4cf7-4ca9-42f3-ad3b-b8c41fe6cb6c.gif)
